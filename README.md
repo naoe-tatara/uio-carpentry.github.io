@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/uio-carpentry/uio-carpentry.github.io)
+
 # University of Oslo Carpentry
 
 This is the source code for the Github page of Carpentry at UiO. 
